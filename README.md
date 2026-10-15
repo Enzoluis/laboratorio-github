@@ -18,3 +18,7 @@ entre Git y GitHub.
 
 Repositorio utilizado para practicar la comunicación
 entre Git y GitHub.
+
+## Repositorio remoto
+
+Este contenido fue incorporado desde GitHub.
