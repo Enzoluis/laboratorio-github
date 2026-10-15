@@ -14,3 +14,7 @@ entre Git y GitHub.
 - Diferencia entre Git y GitHub.
 - Repositorio local y remoto.
 - Publicación de commits.
+## Estado
+
+Repositorio utilizado para practicar la comunicación
+entre Git y GitHub.
